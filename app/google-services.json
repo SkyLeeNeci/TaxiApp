@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "764621049864",
+    "project_id": "taxi-app-b3fb0",
+    "storage_bucket": "taxi-app-b3fb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764621049864:android:970b08bdcc51593f4e01bd",
+        "android_client_info": {
+          "package_name": "karpenko.diploma.taxiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764621049864-aoofm0g9a008pdeq047b82vmfblos6mg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "karpenko.diploma.taxiapp",
+            "certificate_hash": "5f333c96b18b77907a82a4f826d8f11c6af4324a"
+          }
+        },
+        {
+          "client_id": "764621049864-s4i910v9fove27739pgqm2jqn1to0vkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrrBdHFas-NoJC1_5NFTdzkm9keUe4W_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764621049864-s4i910v9fove27739pgqm2jqn1to0vkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
